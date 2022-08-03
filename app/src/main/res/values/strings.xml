@@ -1,0 +1,92 @@
+<resources>
+    <string name="app_name">WorldOfAds</string>
+    <string name="ad_id">ca-app-pub-3940256099942544/6300978111</string>
+    <string name="ad_inter_id">ca-app-pub-3940256099942544/1033173712</string>
+    <!-- Menu Drawer Strings -->
+    <string name="ad_cat1">Объявления</string>
+    <string name="ad_my_ads">Мои объявления</string>
+    <string name="my_fav">Избранное</string>
+    <string name="def">Разное</string>
+    <string name="ad_car">Машины</string>
+    <string name="ad_pc">Компьютеры</string>
+    <string name="ad_smartphones">Смартфоны</string>
+    <string name="ad_dm">Бытовая техника</string>
+    <string name="ad_cat2">Аккаунт</string>
+    <string name="aс_sign_up">Регистрация</string>
+    <string name="aс_sign_in">Войти в аккаунт</string>
+    <string name="aс_sign_out">Выход из аккаунта</string>
+    <string name="remove_ads">Убрать рекламу</string>
+    <string name="open">Open</string>
+    <string name="close">Close</string>
+    <string name="not_reg">Войдите или зарегистрируйтесь!</string>
+    <!-- Sign Dialog -->
+    <string name="email_hint">Email</string>
+    <string name="email_reset_password_was_sent">Reset Email was sent!</string>
+    <string name="dialog_reset_email_message">Для восстановления пароля укажите
+        ваш Email адрес!</string>
+    <string name="password_hint">Password</string>
+    <string name="sign_up_action">Зарегистрироваться</string>
+    <string name="sign_in_action">Войти</string>
+    <string name="forget_password">Забыли пароль?</string>
+    <string name="sign_up_error">Не удалось зарегистрироваться</string>
+    <string name="sign_in_error">Не удалось войти</string>
+    <string name="send_verification_error">Не удалось отправить email для подтверждения!</string>
+    <string name="send_verification_done">На вашу почту была отправлена ссылка для подтверждения
+        аккаунта. Пожалуйста, подтвердите ваш аккаунт</string>
+    <string name="sign_verification_email_done">Вы вошли под свом email</string>
+    <!-- Account Helper -->
+    <string name="link_done">Email успешно подключен к google аккаунту</string>
+    <string name="enter_to_google">У вас уже есть аккаунт с таким Email адресом!</string>
+    <!-- City Helper -->
+    <string name="no_result">Не найдено</string>
+    <!-- Edit Ads Activity -->
+    <string name="select_country">*Выберите страну</string>
+    <string name="select_city">*Выберите город</string>
+    <string name="country">Страна</string>
+    <string name="city">Город</string>
+    <string name="email">Email</string>
+    <string name="index">*Индекс</string>
+    <string name="tel">Телефон</string>
+    <string name="tel_number">*Номер телефона</string>
+    <string name="email_hint_input">Введете email адрес</string>
+    <string name="category">Категория</string>
+    <string name="title">Заголовок объявления</string>
+    <string name="title_hint">*Добавьте заголовок</string>
+    <string name="select_category">*Выберите категорию</string>
+    <string name="price">Цена</string>
+    <string name="price_hint">*Укажите цену</string>
+    <string name="description">Описание объявления</string>
+    <string name="description_hint">*Добавьте описание</string>
+    <string name="with_send">С отправкой</string>
+    <string name="send">Отправка</string>
+    <string name="publish">Опубликовать</string>
+    <string name="no_country_selected">Страна не выбрана! Пожалуйста выбирете страну</string>
+    <string name="no_city_selected">Город не выбран! Пожалуйста выбирете город</string>
+    <string name="attention_fields_empty">Внимание! Все обязательные поля должны быть заполнены!</string>
+    <!-- Ad List Item -->
+    <string name="price_desc">Цена:</string>
+    <!-- Main Activity -->
+    <string name="user_guest">Гость</string>
+    <string name="guest_not_reg_toast">Пожалуйста, зарегистрируйтесь чтобы публиковать объявления!</string>
+    <string name="error_of_registration_toast">Ошибка регистрации! Пожалуйста, попробуйте еще раз чуть позже.</string>
+    <!-- Description Activity -->
+    <string name="price_desc_act">Цена:</string>
+    <string name="phone_desc_act">Телефон:</string>
+    <string name="email_desc_act">Email:</string>
+    <string name="country_desc_act">Страна:</string>
+    <string name="city_desc_act">Город:</string>
+    <string name="index_desc_act">Индекс:</string>
+    <string name="with_sent_desc_act">С отправкой:</string>
+    <string name="with_sent_yes">Да</string>
+    <string name="with_sent_no">Нет</string>
+    <string name="intent_ad_subject">Объявление</string>
+    <string name="to_open_with">Открыть с помощью:</string>
+    <string name="toast_not_found_email_send_app">У вас нет приложения для отправки email. Установите его и попробуйте еще раз.</string>
+    <!-- Filter Activity -->
+    <string name="apply_filter">Применить фильтр</string>
+    <string name="clear_filter">Очистить фильтр</string>
+    <string name="data_of_publish">Дата публикации:</string>
+    <!-- Billing Manager Activity -->
+    <string name="thanks_for_sale">Спасибо за покупку!</string>
+    <string name="failed_to_realize_purchase">Не удалось реализовать покупку!</string>
+</resources>

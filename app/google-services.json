@@ -1,0 +1,48 @@
+{
+  "project_info": {
+    "project_number": "1078761283441",
+    "firebase_url": "https://worldofads-ca7a8-default-rtdb.asia-southeast1.firebasedatabase.app",
+    "project_id": "worldofads-ca7a8",
+    "storage_bucket": "worldofads-ca7a8.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:1078761283441:android:ba19805ffd573ab6f3a0d0",
+        "android_client_info": {
+          "package_name": "com.ds_create.worldofads"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "1078761283441-vfi57fcp0p6jhfiekem2daqv8g6fcd8g.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.ds_create.worldofads",
+            "certificate_hash": "472c5485abb786fd80fe95b115b8363c04386cc2"
+          }
+        },
+        {
+          "client_id": "1078761283441-p36oivkeka3real331g12sr8vmd7frns.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyAKiNnL2AMfO1xTcgEq5LiryYgx9iSZWgA"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "1078761283441-p36oivkeka3real331g12sr8vmd7frns.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}

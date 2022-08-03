@@ -1,0 +1,57 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="DesignSurface">
+    <option name="filePathToZoomLevelMap">
+      <map>
+        <entry key="..\:/AndroidStudioProjects/WorldOfAds/app/src/main/res/drawable/bottom_nav_selector.xml" value="0.1" />
+        <entry key="..\:/AndroidStudioProjects/WorldOfAds/app/src/main/res/drawable/edit_image_bg.xml" value="0.101" />
+        <entry key="..\:/AndroidStudioProjects/WorldOfAds/app/src/main/res/drawable/edit_image_bg_normal.xml" value="0.1" />
+        <entry key="..\:/AndroidStudioProjects/WorldOfAds/app/src/main/res/drawable/edit_image_bg_pressed.xml" value="0.1" />
+        <entry key="..\:/AndroidStudioProjects/WorldOfAds/app/src/main/res/drawable/edit_image_button.xml" value="0.1" />
+        <entry key="..\:/AndroidStudioProjects/WorldOfAds/app/src/main/res/drawable/ic_add_image.xml" value="0.1" />
+        <entry key="..\:/AndroidStudioProjects/WorldOfAds/app/src/main/res/drawable/ic_delete_ad.xml" value="0.1" />
+        <entry key="..\:/AndroidStudioProjects/WorldOfAds/app/src/main/res/drawable/ic_delete_image.xml" value="0.1" />
+        <entry key="..\:/AndroidStudioProjects/WorldOfAds/app/src/main/res/drawable/ic_drag.xml" value="0.1" />
+        <entry key="..\:/AndroidStudioProjects/WorldOfAds/app/src/main/res/drawable/ic_edit.xml" value="0.1" />
+        <entry key="..\:/AndroidStudioProjects/WorldOfAds/app/src/main/res/drawable/ic_edit_ad.xml" value="0.1" />
+        <entry key="..\:/AndroidStudioProjects/WorldOfAds/app/src/main/res/drawable/ic_eye.xml" value="0.1" />
+        <entry key="..\:/AndroidStudioProjects/WorldOfAds/app/src/main/res/drawable/ic_fav_normal.xml" value="0.1" />
+        <entry key="..\:/AndroidStudioProjects/WorldOfAds/app/src/main/res/drawable/ic_fav_pressed.xml" value="0.1" />
+        <entry key="..\:/AndroidStudioProjects/WorldOfAds/app/src/main/res/drawable/ic_filter.xml" value="0.1" />
+        <entry key="..\:/AndroidStudioProjects/WorldOfAds/app/src/main/res/drawable/ic_my_ads.xml" value="0.1" />
+        <entry key="..\:/AndroidStudioProjects/WorldOfAds/app/src/main/res/drawable/ic_new_ads.xml" value="0.1" />
+        <entry key="..\:/AndroidStudioProjects/WorldOfAds/app/src/main/res/layout/activity_description.xml" value="0.25" />
+        <entry key="..\:/AndroidStudioProjects/WorldOfAds/app/src/main/res/layout/activity_edit_ads.xml" value="0.25" />
+        <entry key="..\:/AndroidStudioProjects/WorldOfAds/app/src/main/res/layout/activity_filter.xml" value="0.27298850574712646" />
+        <entry key="..\:/AndroidStudioProjects/WorldOfAds/app/src/main/res/layout/activity_main.xml" value="0.33" />
+        <entry key="..\:/AndroidStudioProjects/WorldOfAds/app/src/main/res/layout/ad_list_item.xml" value="0.25" />
+        <entry key="..\:/AndroidStudioProjects/WorldOfAds/app/src/main/res/layout/image_adapter_item.xml" value="0.22" />
+        <entry key="..\:/AndroidStudioProjects/WorldOfAds/app/src/main/res/layout/list_image_frag.xml" value="0.16" />
+        <entry key="..\:/AndroidStudioProjects/WorldOfAds/app/src/main/res/layout/list_mage_frag.xml" value="0.2" />
+        <entry key="..\:/AndroidStudioProjects/WorldOfAds/app/src/main/res/layout/main_contant.xml" value="0.25" />
+        <entry key="..\:/AndroidStudioProjects/WorldOfAds/app/src/main/res/layout/main_content.xml" value="0.25" />
+        <entry key="..\:/AndroidStudioProjects/WorldOfAds/app/src/main/res/layout/nav_header_main.xml" value="0.22" />
+        <entry key="..\:/AndroidStudioProjects/WorldOfAds/app/src/main/res/layout/progress_dialog_layout.xml" value="0.25" />
+        <entry key="..\:/AndroidStudioProjects/WorldOfAds/app/src/main/res/layout/select_image_frag_item.xml" value="0.25" />
+        <entry key="..\:/AndroidStudioProjects/WorldOfAds/app/src/main/res/layout/select_image_fragment_item.xml" value="0.25" />
+        <entry key="..\:/AndroidStudioProjects/WorldOfAds/app/src/main/res/layout/sign_dialog.xml" value="0.25" />
+        <entry key="..\:/AndroidStudioProjects/WorldOfAds/app/src/main/res/layout/sp_layout_list_item.xml" value="0.22" />
+        <entry key="..\:/AndroidStudioProjects/WorldOfAds/app/src/main/res/layout/sp_list_item.xml" value="0.22" />
+        <entry key="..\:/AndroidStudioProjects/WorldOfAds/app/src/main/res/layout/spinner_layout.xml" value="0.25" />
+        <entry key="..\:/AndroidStudioProjects/WorldOfAds/app/src/main/res/menu/bottom_main_menu.xml" value="0.67" />
+        <entry key="..\:/AndroidStudioProjects/WorldOfAds/app/src/main/res/menu/drawer_main_menu.xml" value="0.33" />
+        <entry key="..\:/AndroidStudioProjects/WorldOfAds/app/src/main/res/menu/main_menu.xml" value="0.22" />
+        <entry key="..\:/AndroidStudioProjects/WorldOfAds/app/src/main/res/menu/menu_choose_image.xml" value="0.2" />
+        <entry key="..\:/AndroidStudioProjects/WorldOfAds25/app/src/main/res/layout/activity_edit_ads.xml" value="0.19444444444444445" />
+        <entry key="..\:/AndroidStudioProjects/WorldOfAds7/app/src/main/res/layout/sign_dialog.xml" value="0.22" />
+        <entry key="..\:/AndroidStudioProjects/WorldOfAds9/app/src/main/res/layout/activity_description.xml" value="0.25" />
+      </map>
+    </option>
+  </component>
+  <component name="ProjectRootManager" version="2" languageLevel="JDK_11" default="true" project-jdk-name="Android Studio default JDK" project-jdk-type="JavaSDK">
+    <output url="file://$PROJECT_DIR$/build/classes" />
+  </component>
+  <component name="ProjectType">
+    <option name="id" value="Android" />
+  </component>
+</project>
